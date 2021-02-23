@@ -1,6 +1,6 @@
 # CSYE7245---Team-4---Big-Data-Sys-Int-Analytics-Master
 
-## Every Assignemnt has it's own ReadMe for detailed explanation.
+## Every Assignmnt & Lab has it's own ReadMe for detailed explanation.
 
 ### Team Information
 

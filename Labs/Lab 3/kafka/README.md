@@ -10,11 +10,11 @@ An event is any type of action, incident, or change that's identified or recorde
 #### Where do I use Kafka?
 Assume you have multiple source systems that generate data and this data has to be consumed by one or more target system(s). As the number of source and target systems increase, there is an increased complexity to map all source systems to their respective targets.
 
-![kafka1](/kafka/img/kafka1.jpeg)
+![kafka1](https://github.com/jayshilj/Team4_CSYE7245_Spring2021/blob/main/Labs/Lab%203/kafka/img/kafka1.jpeg)
 
 Therefore, maintaining the infrastructure and ensuring system resilience and reliability and data consistency is also a huge challenge. This is where Kafka can help.
 
-![kafka2](/kafka/img/kafka2.jpeg)
+![kafka2](https://github.com/jayshilj/Team4_CSYE7245_Spring2021/blob/main/Labs/Lab%203/kafka/img/kafka2.jpeg)
 
 ### Getting Started
 

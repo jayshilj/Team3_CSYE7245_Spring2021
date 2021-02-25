@@ -16,7 +16,6 @@
 
 2. CLAT Document Link : https://codelabs-preview.appspot.com/?file_id=1ZC_bfu3FDKI9gngLEwzm7J9j7NsGaTpQNSK3bS-WRt0#0
 
-3. Google Colab Link : 
 
 
 #### Lab 2 - Machine Learning on Google Cloud Platform with Structured Data Pipelines

@@ -1,3 +1,9 @@
+#### Lab 4 Sql Alchemy Postgres:
+
+1. Google Docs Link : https://docs.google.com/document/d/1jVJlhQrkNxxw7-VSGBtybRtXe4ZYS6UMn56IS1vhCW8/edit?usp=sharing
+
+2. CLAT Document Link : https://codelabs-preview.appspot.com/?file_id=1jVJlhQrkNxxw7-VSGBtybRtXe4ZYS6UMn56IS1vhCW8#0
+
 ## SQL Alchemy
 
 SQLAlchemy is a library that facilitates the communication between Python programs and databases. 

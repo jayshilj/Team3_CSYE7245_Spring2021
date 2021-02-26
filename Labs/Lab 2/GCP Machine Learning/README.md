@@ -1,3 +1,9 @@
+#### Lab 2 - Machine Learning on Google Cloud Platform with Structured Data Pipelines
+
+1. Google Docs Link : https://docs.google.com/document/d/1nZp3-RFUFJ-uLq3bbTdhCAqf9Am6QXLGCMuxSJFUorw/edit?usp=sharing
+
+2. CLAT Document Link : https://codelabs-preview.appspot.com/?file_id=1nZp3-RFUFJ-uLq3bbTdhCAqf9Am6QXLGCMuxSJFUorw#1
+
 # CSYE7245 Big Data Systems & Intelligence Analytics Labs - Spring 2021
 ## Lab GCP - Machine Learning with structured Data 
 

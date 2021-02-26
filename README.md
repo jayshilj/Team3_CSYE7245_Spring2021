@@ -17,7 +17,6 @@
 2. CLAT Document Link : https://codelabs-preview.appspot.com/?file_id=1ZC_bfu3FDKI9gngLEwzm7J9j7NsGaTpQNSK3bS-WRt0#0
 
 
-
 #### Lab 2 - Machine Learning on Google Cloud Platform with Structured Data Pipelines
 
 1. Google Docs Link : https://docs.google.com/document/d/1nZp3-RFUFJ-uLq3bbTdhCAqf9Am6QXLGCMuxSJFUorw/edit?usp=sharing
@@ -30,8 +29,6 @@
 1. Google Docs Link : https://docs.google.com/document/d/1Nh6rB67CbmXL5hBK7logKcKF0ra49wNYU59jH5Vln_8/edit# 
 
 2. CLAT Document Link : https://codelabs-preview.appspot.com/?file_id=1Nh6rB67CbmXL5hBK7logKcKF0ra49wNYU59jH5Vln_8#4 
-
-3. Sample
 
 
 #### Lab 4 Sql Alchemy Postgres:
@@ -51,3 +48,9 @@
 
 
 #### Lab 6 SEVIR H5 dataset
+
+1. Google Docs Link: https://docs.google.com/document/d/1ylFm60-fWKnW9IsONpE04rH_T0E6STeYwXMzU2qRvXA/edit#
+
+2. CLAT Document Link: https://codelabs-preview.appspot.com/?file_id=1ylFm60-fWKnW9IsONpE04rH_T0E6STeYwXMzU2qRvXA#0
+
+3. Python File Link: https://guides.snowflake.com/guide/getting_started_with_snowflake/#0

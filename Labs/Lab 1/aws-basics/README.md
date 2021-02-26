@@ -1,3 +1,9 @@
+#### Lab 1 - AWS Basics
+
+1. Google Docs Link : https://docs.google.com/document/d/1ZC_bfu3FDKI9gngLEwzm7J9j7NsGaTpQNSK3bS-WRt0/edit#
+
+2. CLAT Document Link : https://codelabs-preview.appspot.com/?file_id=1ZC_bfu3FDKI9gngLEwzm7J9j7NsGaTpQNSK3bS-WRt0#0
+
 ### Getting Started with AWS
 
 #### Requirements

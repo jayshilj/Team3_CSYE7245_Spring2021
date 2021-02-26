@@ -23,6 +23,8 @@
 
 2. CLAT Document Link : https://codelabs-preview.appspot.com/?file_id=1nZp3-RFUFJ-uLq3bbTdhCAqf9Am6QXLGCMuxSJFUorw#1
 
+3. Python File: https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Labs/Lab%202/GCP%20Machine%20Learning/babyweight.ipynb
+
 
 #### Lab 3 - Apache Kafka
 
@@ -53,4 +55,4 @@
 
 2. CLAT Document Link: https://codelabs-preview.appspot.com/?file_id=1ylFm60-fWKnW9IsONpE04rH_T0E6STeYwXMzU2qRvXA#0
 
-3. Python File Link: https://guides.snowflake.com/guide/getting_started_with_snowflake/#0
+3. Python File Link: https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Labs/Lab%206/neurips-2020-sevir/notebooks/AnalyzeSyntheticRadar.ipynb

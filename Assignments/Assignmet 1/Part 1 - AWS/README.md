@@ -233,8 +233,3 @@ D] Querying on Athena :
 ### Final Analysis on Quicksight  
    Quicksight dashboard
 ![alt text](images/Dashboard.jpg)
-
-
-![ForTheBadge built-with-love](images/badges/built-with-love.svg)
-
-

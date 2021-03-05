@@ -11,9 +11,9 @@ Sagar Shah <br/>
 #### Quick Links
 
 ##### Presentations <br />
-[Presentation](https://docs.google.com/document/d/1lazIbEe9S3NOoDNHNNhBujKwwu4JMAiNEUhc0Jr0onM/edit#heading=h.ejimkgfvmpx9)<br />
-[CLAAT presentation](
-https://codelabs-preview.appspot.com/?file_id=1lazIbEe9S3NOoDNHNNhBujKwwu4JMAiNEUhc0Jr0onM#0)<br />
+[Google Docs](https://docs.google.com/document/d/1cTtzbRmLHuAwBRRGuP6TRDicmfXV97SV03Zlh9VtTWE/edit#heading=h.ejimkgfvmpx9)<br />
+[CLAAT presentation](https://codelabs-preview.appspot.com/?file_id=1cTtzbRmLHuAwBRRGuP6TRDicmfXV97SV03Zlh9VtTWE#0)<br />
+
 
 ---
 

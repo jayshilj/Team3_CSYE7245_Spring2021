@@ -184,3 +184,5 @@ INNER JOIN FATALITY f ON d.EVENT_ID = f.EVENT_ID
 GROUP BY d.EVENT_TYPE
 ORDER BY Number_of_Fatalites DESC
 ```
+
+![](Snowflake_Image)

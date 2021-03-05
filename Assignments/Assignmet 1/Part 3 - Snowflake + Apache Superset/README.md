@@ -162,3 +162,25 @@ airflow scheduler
 # visit localhost:8080 in the browser and use the admin account you just
 # created to login. Enable the example_bash_operator dag in the home pag
 ```
+
+
+## Testcases
+
+#### Run the Snowflake_SQL_Queries_to_Test_Data_and_Analytics.sql file and run the following queries to make sure the tables are configured properly
+
+```
+//Query 1 to select total death by the states//
+SELECT STATE, 
+        SUM(DEATHS_DIRECT) AS TOTAL_DEATHS
+FROM DETAILS
+GROUP BY STATE
+ORDER BY TOTAL_DEATHS DESC
+
+//Query 2 to select total death by the states//
+SELECT  d.EVENT_TYPE,  
+        COUNT(d.EVENT_ID) as Number_of_Fatalites
+FROM DETAILS d
+INNER JOIN FATALITY f ON d.EVENT_ID = f.EVENT_ID
+GROUP BY d.EVENT_TYPE
+ORDER BY Number_of_Fatalites DESC
+```

@@ -138,7 +138,7 @@ Follow the steps below to connect Google BigQuery to GCP storage buckets and cre
 Google Data studio is used for visualization purpose by loading the data from the Google BigQuery Tables and also GCP buckets 
 Navigate to site : https://datastudio.withgoogle.com/ for creating interactive dashboards to visualize your data 
 
-![](images/dashboard.png)   
+![](images/SevirDataAnalysisGoogleDatastudio.jpg)   
 
 ## Dashboard Link
 

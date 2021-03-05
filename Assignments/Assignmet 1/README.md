@@ -33,7 +33,7 @@ The Storm EVent ImagRy (SEVIR) dataset is a collection of temporally and spatial
 
 ## GCP Dashboard
 
-![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignmet%201/Part%202%20-%20GCP/images/dashboard.png)
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignmet%201/Part%202%20-%20GCP/images/SevirDataAnalysisGoogleDatastudio.jpg)
 
 ## Snowflake Architecture
 

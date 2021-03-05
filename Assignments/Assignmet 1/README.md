@@ -10,8 +10,8 @@ Sagar Shah <br/>
 #### Quick Links
 
 ##### Presentations <br />
-[Google Docs](https://docs.google.com/document/d/1cTtzbRmLHuAwBRRGuP6TRDicmfXV97SV03Zlh9VtTWE/edit#heading=h.ejimkgfvmpx9)<br />
-[CLAAT presentation](https://codelabs-preview.appspot.com/?file_id=1cTtzbRmLHuAwBRRGuP6TRDicmfXV97SV03Zlh9VtTWE#0)<br />
+[Google Docs](https://docs.google.com/document/d/1SZ0LcbfdTF95MscuZq454vE-mJKtkQAjTVhJ3G1fWgI/edit#heading=h.ui9fgw2vh8q)<br />
+[CLAAT presentation](https://codelabs-preview.appspot.com/?file_id=1SZ0LcbfdTF95MscuZq454vE-mJKtkQAjTVhJ3G1fWgI#0)<br />
 
 #### Dataset overview: 
 

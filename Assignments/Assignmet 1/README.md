@@ -20,24 +20,28 @@ The Storm EVent ImagRy (SEVIR) dataset is a collection of temporally and spatial
 
 ## AWS Architecture
 
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignmet%201/Part%201%20-%20AWS/images/AWSSEVIRARCHITECTURE.jpg)
+
 ## AWS Dashboard
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignmet%201/Part%201%20-%20AWS/images/Dashboard.jpg)
 
 ## GCP Architecture
 
-![](Assignmet 1/Part 2 - GCP/images/sevir.png)
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignmet%201/Part%202%20-%20GCP/images/sevir.png)
 
 
 ## GCP Dashboard
 
-![](Assignmet 1/Part 2 - GCP/images/dashboard.png)
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignmet%201/Part%202%20-%20GCP/images/dashboard.png)
 
 ## Snowflake Architecture
 
-![](Assignmet 1/Part 3 - Snowflake + Apache Superset/img/SEVIR_Snowflake_architecture.jpg)
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignmet%201/Part%203%20-%20Snowflake%20%2B%20Apache%20Superset/img/SEVIR_Snowflake_architecture.jpg)
 
 ## Apache Superset Dashboard
 
-![](Assignmet 1/Part 3 - Snowflake + Apache Superset/img/Apache_Superset_dashboard.jpg)
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignmet%201/Part%203%20-%20Snowflake%20%2B%20Apache%20Superset/img/Apache_Superset_dashboard.jpg)
 
 
 ## Assignment Requirements

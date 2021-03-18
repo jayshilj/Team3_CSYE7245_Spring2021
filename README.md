@@ -50,6 +50,16 @@
 
 3. Refrence Link: https://guides.snowflake.com/guide/getting_started_with_snowflake/#0
 
+
+#### Lab 6 SEVIR H5 dataset
+
+Google Docs Link: https://docs.google.com/document/d/1ylFm60-fWKnW9IsONpE04rH_T0E6STeYwXMzU2qRvXA/edit#
+
+CLAT Document Link: https://codelabs-preview.appspot.com/?file_id=1ylFm60-fWKnW9IsONpE04rH_T0E6STeYwXMzU2qRvXA#0
+
+Python File Link: https://guides.snowflake.com/guide/getting_started_with_snowflake/#0
+
+
 #### Lab 7 Airflow tfx
 
 1. Google Docs Link: https://docs.google.com/document/d/1hUkyf5xo1fJJzFPbH9cUKZ2AtX83ExkLmnQc7rYuwZ8/edit#heading=h.n7oilkyeazln

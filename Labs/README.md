@@ -50,5 +50,30 @@
 
 3. Refrence Link: https://guides.snowflake.com/guide/getting_started_with_snowflake/#0
 
+#### Lab 7 Airflow tfx
 
-#### Lab 6 SEVIR H5 dataset
+1. Google Docs Link: https://docs.google.com/document/d/1hUkyf5xo1fJJzFPbH9cUKZ2AtX83ExkLmnQc7rYuwZ8/edit#heading=h.n7oilkyeazln
+
+2. CLAT Document Link: https://codelabs-preview.appspot.com/?file_id=1hUkyf5xo1fJJzFPbH9cUKZ2AtX83ExkLmnQc7rYuwZ8#1
+
+
+#### Lab 8 Airflow_CNN_pipeline
+
+1. Google Docs Link: https://docs.google.com/document/d/1hmBgnuaAalooHkOuBQeivzsgS9ad8x_P3qDnR8Y2ckI/edit#heading=h.ejimkgfvmpx9 
+
+2. CLAT Document Link: https://codelabs-preview.appspot.com/?file_id=1hmBgnuaAalooHkOuBQeivzsgS9ad8x_P3qDnR8Y2ckI/
+
+
+#### Lab 9 Streamlit
+
+1. Google Docs Link: https://docs.google.com/document/d/1VDf3cvz9qahb1_pp24atZ6UYJzeJcPplIRV7Y8W_LUc/edit?usp=sharing
+
+2. CLAT Document Link: https://codelabs-preview.appspot.com/?file_id=1VDf3cvz9qahb1_pp24atZ6UYJzeJcPplIRV7Y8W_LUc#2
+
+
+#### Lab 10 Fast-api
+
+1. Google Docs Link: https://docs.google.com/document/d/1JCiOBeUwCr9UVpWP0Yy_GRkHO0SWVOokwd6MfnlrRgY/edit# 
+
+2. CLAT Document Link: https://codelabs-preview.appspot.com/?file_id=1JCiOBeUwCr9UVpWP0Yy_GRkHO0SWVOokwd6MfnlrRgY#2
+

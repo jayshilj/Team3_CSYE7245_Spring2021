@@ -105,7 +105,10 @@ C:.
 
 ## Architecture:
 
-![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%3/Images/airflowarchitecture.jpg)
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/mingrammer_architecture.png)
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/mingrammer.png)
 
 
 ## Setup For Running this Project:
@@ -194,7 +197,7 @@ Sagar Shah <br/>
 YOU DONT NEED TO WORRY ABOUT DATASETS AND ALGORITHMS TO ACCESS THEM, 
 WE HAVE DONE IT FOR YOU, 
 
-YOU ARE USE OUR APIS
+YOU CAN USE OUR APIs for following use cases :
 
 This APIs can be used in classification studies such as:
 

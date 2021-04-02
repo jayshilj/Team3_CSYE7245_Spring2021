@@ -126,7 +126,9 @@ https://www.kaggle.com/shasun/tool-wear-detection-in-cnc-mill
 
 End result should be that all data is into Snowflake DB
 
-![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%3/Images/snowflakedb.jpg)
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/Data%20Flow.png)
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/Snowflake.png)
 
 
 #### Step 4: FAST APIs  (initial authentication)
@@ -161,15 +163,24 @@ and Load testing via Locusts
 ![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment3/Images/pytests.jpg)
 
 
+#### Using Locust to create users and spawn rate to check API efficency
 
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/Locust1.png)
 
-![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment3/Images/locusts.jpg)
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/Locust2.png)
 
 
 End result should be that all tests cases designed are running 
 
 #### Step 7: Visualizations free accessible via link
 
+#### Using Jupter Notebooks to create Data Science Visualizations of our Dataset
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/CNC_Data_Science1.png)
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/CNC_Data_Science2.png)
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Assignments/Assignment%203/Images/CNC_Data_Science3.png)
 
 
 

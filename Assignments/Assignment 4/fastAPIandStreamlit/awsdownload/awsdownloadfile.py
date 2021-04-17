@@ -1,8 +1,8 @@
 from boto3.session import Session
 import boto3
 import os
-ACCESS_KEY = 'AKIA5CUSOFRV36GAHXEX'
-SECRET_KEY = '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'
+ACCESS_KEY = 'xxx'
+SECRET_KEY = 'xxx'
 FILE_NAME = 'AGEN.txt'
 session = Session(aws_access_key_id=ACCESS_KEY,
               aws_secret_access_key=SECRET_KEY)

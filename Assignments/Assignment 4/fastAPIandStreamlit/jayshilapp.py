@@ -51,8 +51,8 @@ def main():
     page = st.sidebar.radio("Choose a page", ["Homepage", "SignUp"])
     if page == "Homepage":
 
-        ACCESS_KEY_ID = 'AKIA5CUSOFRV36GAHXEX'
-        ACCESS_SECRET_KEY = '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'
+        ACCESS_KEY_ID = 'xxx'
+        ACCESS_SECRET_KEY = 'xxx'
         st.title('** Welcome to Team 3 CSYE !!!**')
         st.header('User Authentication')
 

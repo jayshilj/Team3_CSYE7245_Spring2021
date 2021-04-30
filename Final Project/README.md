@@ -19,23 +19,122 @@ http://ec2-18-232-35-95.compute-1.amazonaws.com:8501/
 ## Project Structure
 ```
 Project
-├── README.md
-├── Config file
-├── Company Keywords
-│   └── keywords to categorize the articles
-├── Data: Scripts to scrape the data and api to get stock data
-│   └── sentiment_analysis.py
-├── Dockerfile: instruction for docker image construction.
-├── requirements.txt: dependencies.
-├── GlueScripts: Scripts for AWS Gule 
-│   └── Pyspark scripts for each pipeline
-├── webapp: code for flask webapp
-│   └── templates: html and css templates for web app
-│   └── app.py
-│   └── Procfile
-│   └── runtime.txt
-│   └── License
-├── Readme.MD
+C:.
+|  audioapp.py
+|  googletrends.py
+|  jayshilapp.py
+|  output.doc
+|  README.md
+|  stockapp-FinViz.py
+|  StockScreenDemo.py
+|  summary.py
+|  tweetData.py
+|  
++---Datasets
+|      SP500.csv
+|      
++---Fastwebapp
+|  |  app.py
+|  |  LICENSE.txt
+|  |  Procfile
+|  |  README.md
+|  |  requirements.txt
+|  |  runtime.txt
+|  |  
+|  +---static
+|  |  |  architecture.gif
+|  |  |  automobile.gif
+|  |  |  bigdata.gif
+|  |  |  cloud.gif
+|  |  |  data.gif
+|  |  |  electronics.gif
+|  |  |  Final_AWS_FAST.jpg
+|  |  |  forecasting.jpg
+|  |  |  medical.gif
+|  |  |  retail.gif
+|  |  |  sentiment.gif
+|  |  |  sentiment_analysis.gif
+|  |  |  sentiment_analysis.png
+|  |  |  stock.gif
+|  |  |  stockmarket.gif
+|  |  |  stock_latest.gif
+|  |  |  stock_latest.jpg
+|  |  |  timeforecasting.gif
+|  |  |  workflow_png.png
+|  |  |  
+|  |  +---css
+|  |  |      font-awesome.min.css
+|  |  |      main.css
+|  |  |      
+|  |  +---css_1
+|  |  |  |  font-awesome.min.css
+|  |  |  |  main.css
+|  |  |  |  
+|  |  |  \---_notes
+|  |  |          dwsync.xml
+|  |  |          
+|  |  +---fonts
+|  |  |      fontawesome-webfont.eot
+|  |  |      fontawesome-webfont.svg
+|  |  |      fontawesome-webfont.ttf
+|  |  |      fontawesome-webfont.woff
+|  |  |      fontawesome-webfont.woff2
+|  |  |      FontAwesome.otf
+|  |  |      
+|  |  +---fonts_1
+|  |  |  |  fontawesome-webfont.eot
+|  |  |  |  fontawesome-webfont.svg
+|  |  |  |  fontawesome-webfont.ttf
+|  |  |  |  fontawesome-webfont.woff
+|  |  |  |  fontawesome-webfont.woff2
+|  |  |  |  FontAwesome.otf
+|  |  |  |  
+|  |  |  \---_notes
+|  |  |          dwsync.xml
+|  |  |          
+|  |  +---js
+|  |  |      jquery.min.js
+|  |  |      jquery.scrollex.min.js
+|  |  |      main.js
+|  |  |       skel.min.js
+|  |  |      util.js
+|  |  |      
+|  |  \---js_1
+|  |      |  jquery.min.js
+|  |      |  jquery.scrolly.min.js
+|  |      |  main.js
+|  |      |  skel.min.js
+|  |      |  util.js
+|  |      |  
+|  |      \---_notes
+|  |              dwsync.xml
+|  |              
+|  \---templates
+|          architecture.html
+|          automobile.html
+|          cloud.html
+|          dataeda.html
+|          electronics.html
+|          health.html
+|          index.html
+|          metric.html
+|          retail.html
+|          sentimentanalysis.html
+|          timeseriesanalysis.html
+|          
++---GLUE ETL SCRIPTS
+|      ETLMigrationJob
+|      google_trends_automobile
+|      google_trends_cloud
+|      google_trends_hardware
+|      google_trends_healthcare
+|      google_trends_retail
+|      sp500
+|      TwitterStreamsETL
+|      
+\---Twitter
+       App_Streamlit.py
+       Logo1.jpg
 ```
 
 

@@ -12,6 +12,10 @@ https://codelabs-preview.appspot.com/?file_id=11_uaC--B3Yz0_ux-d8Pb0SZlrfnj4xPv_
 ## Web Application:
 http://ec2-18-232-35-95.compute-1.amazonaws.com:8501/
 
+## Architecture 
+
+![](https://github.com/jayshilj/Team3_CSYE7245_Spring2021/blob/main/Final%20Project/Architecture%20Final%20AWS_FAST.jpg)
+
 ## Project Structure
 ```
 Project

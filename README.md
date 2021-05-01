@@ -10,7 +10,7 @@ https://codelabs-preview.appspot.com/?file_id=11_uaC--B3Yz0_ux-d8Pb0SZlrfnj4xPv_
 ​
 ​
 ## Web Application:
-### Streamli App
+### Streamlit App
 http://ec2-18-232-35-95.compute-1.amazonaws.com:8501/
 ### Flask App
 http://ec2-18-232-35-95.compute-1.amazonaws.com:5000/

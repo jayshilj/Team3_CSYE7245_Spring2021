@@ -11,28 +11,7 @@ https://codelabs-preview.appspot.com/?file_id=11_uaC--B3Yz0_ux-d8Pb0SZlrfnj4xPv_
 ​
 ## Web Application:
 http://ec2-18-232-35-95.compute-1.amazonaws.com:8501/
-​
-## Project Structure
-```
-Project
-├── README.md
-├── Config file
-├── Company Keywords
-│   └── keywords to categorize the articles
-├── Data: Scripts to scrape the data and api to get stock data
-│   └── sentiment_analysis.py
-├── Dockerfile: instruction for docker image construction.
-├── requirements.txt: dependencies.
-├── GlueScripts: Scripts for AWS Gule 
-│   └── Pyspark scripts for each pipeline
-├── webapp: code for flask webapp
-│   └── templates: html and css templates for web app
-│   └── app.py
-│   └── Procfile
-│   └── runtime.txt
-│   └── License
-├── Readme.MD
-```
+
 ​
 ​
 ## Getting Started
